@@ -20,14 +20,12 @@ image:
     <a href="/images/document01.jpg"><img src="/images/document01.jpg"></a>
     <figcaption>title="morning"</figcaption>
 </figure>
-![Smithsonian Image]({{ site.url }}/images/document01.jpg)
-{: .image-pull-right}
 
+123
 
 ![](/images/document01.jpg)
 
-![Smithsonian Image]({{ site.url }}/images/document02.jpg)
-{: .image-pull-right}
+1231213
 
 ###社会计算相关期刊
 
