@@ -23,18 +23,18 @@ image:
 
 社会计算方向是一个较新的方向，还没有形成固定的高水平社交网络相关会议。下面是一些包含社交网络的相关文章的较好的会议，近年来都有社交计算方面的文章出现。
 
-##社会计算相关会议
+###社会计算相关会议
 
 ![Smithsonian Image]({{ site.url }}/images/document01.jpg)
-{: .image-pull-middle}
+
 
 ![Smithsonian Image]({{ site.url }}/images/document02.jpg)
-{: .image-pull-middle}
 
-#社会计算相关期刊
+
+###社会计算相关期刊
 
 ![Smithsonian Image]({{ site.url }}/images/document03.jpg)
-{: .image-pull-middle}
 
-+数据挖掘：WWW,SIGKDD,ICDM,WSDM,LBSN,SIGIR,AAAI
-+网络系统相关：Percom,UbiComp,WOSN,ICDCS,MOBISYS,IMC
+
+*数据挖掘：WWW,SIGKDD,ICDM,WSDM,LBSN,SIGIR,AAAI
+*网络系统相关：Percom,UbiComp,WOSN,ICDCS,MOBISYS,IMC
