@@ -8,7 +8,7 @@ url:              http://seppol.github.io
 # Jekyll configuration
 
 permalink:   /:categories/:title/
-markdown:    kramdown
+markdown:    markdown
 highlighter: pygments
 sass:
   sass_dir: _sass

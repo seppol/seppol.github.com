@@ -16,7 +16,7 @@ image:
 
 ###社会计算相关会议
 
-<figure >
+<figure>
     <a href="/images/document01.jpg"><img src="/images/document01.jpg"></a>
     <figcaption>title="morning"</figcaption>
 </figure>
