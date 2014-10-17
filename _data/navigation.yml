@@ -1,12 +1,9 @@
 # Site navigation links
-
-
-
 - title: Sample Posts
   url: /posts/
 
-- title: 科研目录
+- title: catalog
   url: /theme-setup/
   
-- title: 关于
+- title: about
  url: /about/
