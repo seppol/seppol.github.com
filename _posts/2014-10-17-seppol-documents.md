@@ -16,6 +16,10 @@ image:
 
 ###社会计算相关会议
 
+<figure >
+    <a href="/images/document01.jpg"><img src="/images/document01.jpg"></a>
+    <figcaption>title="morning"</figcaption>
+</figure>
 ![Smithsonian Image]({{ site.url }}/images/document01.jpg)
 {: .image-pull-right}
 
@@ -29,5 +33,4 @@ image:
 
 
 * 数据挖掘：WWW,SIGKDD,ICDM,WSDM,LBSN,SIGIR,AAAI
-
 * 网络系统相关：Percom,UbiComp,WOSN,ICDCS,MOBISYS,IMC
