@@ -23,6 +23,9 @@ image:
 ![Smithsonian Image]({{ site.url }}/images/document01.jpg)
 {: .image-pull-right}
 
+
+![](/images/document01.jpg)
+
 ![Smithsonian Image]({{ site.url }}/images/document02.jpg)
 {: .image-pull-right}
 
