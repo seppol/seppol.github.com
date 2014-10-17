@@ -24,15 +24,20 @@ image:
 ## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
------
+
+{%highlight css%}
 		include <iostream>
 		using namespace std;
------
+{%endhighlight%}
 
-*fucking u*
+**fucking u** *fucking u*
+
 this is [an example](http://www.seppol.github.io)
+
 this is [an example][id]
+
 [id]:http://www.seppol.github.io "title here"
+
 # Heading 1
 
 ## Heading 2
@@ -51,11 +56,6 @@ Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nulla
 
 ![Smithsonian Image]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
 {: .image-pull-right}
-
-
-![Smithsonian Image1]({{ site.url }}/images/3953273590_704e3899d5_m.jpg)
-{: .image-pull-left}
-
 
 *This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
 
