@@ -38,6 +38,13 @@ this is [an example][id]
 
 [id]:http://www.seppol.github.io "title here"
 
+```javascript
+  var ihubo = {
+    nickName  : "草依山",
+    site : "http://jser.me"
+  }
+```
+
 # Heading 1
 
 ## Heading 2
