@@ -1,9 +1,10 @@
 # Site navigation links
+
+- title: About
+  url: /about/
+
 - title: Sample Posts
   url: /posts/
 
-- title: catalog
+- title: Theme Setup
   url: /theme-setup/
-  
-- title: about
- url: /about/
