@@ -104,6 +104,13 @@ HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, c
 }
 {% endhighlight %}
 
+```javascript
+  var ihubo = {
+    nickName  : "草依山",
+    site : "http://jser.me"
+  }
+```
+
 ## Buttons
 
 Make any link standout more when applying the `.btn` class.
