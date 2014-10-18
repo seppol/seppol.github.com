@@ -19,5 +19,5 @@ description:
 
 ![3](/public/img/document03.JPG)
 
-*数据挖掘：WWW,SIGKDD, ICDM, WSDM, LBSN, SIGIR,AAAI
-*网络系统相关：Percom, UbiComp, WOSN, ICDCS, MOBISYS,IMC
+* 数据挖掘：WWW,SIGKDD, ICDM, WSDM, LBSN, SIGIR,AAAI
+* 网络系统相关：Percom, UbiComp, WOSN, ICDCS, MOBISYS,IMC
