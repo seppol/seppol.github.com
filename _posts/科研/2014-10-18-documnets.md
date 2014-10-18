@@ -9,6 +9,8 @@ description:
 
 ###会议期刊
 
+<img src="/public/img/document01.jpg" alt="" />
+
 ![1](/public/img/document01.jpg)
 
 ###其他
