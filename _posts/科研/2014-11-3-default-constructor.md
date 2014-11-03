@@ -21,6 +21,7 @@ description:
 ### “带有Default Constructor”的Member Class Object
 
 这种情况主要指类的内含时：
+
 ```
 	class Foo{ public: Foo();Foo(int)...};
 	class Bar{ public: Foo foo;char *str};
@@ -38,6 +39,7 @@ description:
 这种情况跟上面的情况相似
 
 ### “带有一个 Virtual Function”的Class
+
 两种情况如下：
 1. class声明（或继承）一个virtual function。
 2. class派生自一个继承串链，其中有一个或更多的virtual base classes。
@@ -64,6 +66,7 @@ description:
 3. 改写 widget。flip--->（*widget.vptr[1]）  1 为virtual table中的索引
 
 ### “带有一个virtual Base Class”的Class
+
 例如C继承A
 
 ```
@@ -75,11 +78,13 @@ description:
 		foo(new C);
 	}
 ```
+
 由于多态的存在，具体执行什么样的代码可能延迟到执行期才决定下来
 
 ```
 	void foo(const A* pa) {pa->_vbcx->=1024;}//编译器可能的转变操作
 ```
+
 其中，_vbcx表示编译器产生的指针，指向virtual base class X
 
 
