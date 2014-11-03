@@ -18,7 +18,7 @@ description:
 
 编译器合成出“nontrivial default constructor”的四种情况如下：
 
-### “带有Default Constructor”的Member Class Object
+### （一）“带有Default Constructor”的Member Class Object
 
 这种情况主要指类的内含时：
 
@@ -34,11 +34,11 @@ description:
 	}
 ```
 
-### “带有Default Constructor”的Base Class
+### （二）“带有Default Constructor”的Base Class
 
 这种情况跟上面的情况相似
 
-### “带有一个 Virtual Function”的Class
+### （三）“带有一个 Virtual Function”的Class
 
 两种情况如下：
 1. class声明（或继承）一个virtual function。
@@ -65,7 +65,7 @@ description:
 2. 编译器会生成一个pointer指向vtbl的地址
 3. 改写 widget。flip--->（*widget.vptr[1]）  1 为virtual table中的索引
 
-### “带有一个virtual Base Class”的Class
+### （四）“带有一个virtual Base Class”的Class
 
 例如C继承A
 
