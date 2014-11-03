@@ -19,8 +19,8 @@ url: http://seppol.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/seppol.PNG
-favicon: /public/img/seppol.PNG
+gavatar: /public/img/seppol1.PNG
+favicon: /public/img/seppol1.PNG
 
 # disqus 设置
 disqus:
